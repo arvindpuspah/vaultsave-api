@@ -1,0 +1,15 @@
+{
+  "name": "vaultsave-api",
+  "version": "1.0.0",
+  "description": "VaultSave Universal Media Downloader API",
+  "main": "api/download.js",
+  "engines": {
+    "node": ">=18.x"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "keywords": ["instagram-downloader", "youtube-shorts", "facebook-video", "pinterest", "tiktok"],
+  "author": "DanishHub",
+  "license": "MIT"
+}
